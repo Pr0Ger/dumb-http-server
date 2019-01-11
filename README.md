@@ -1,7 +1,7 @@
 # dumb-http-server
 
 [![Docker](https://img.shields.io/docker/build/pr0ger/dumb-http-server.svg?style=flat-square)](https://hub.docker.com/r/pr0ger/dumb-http-server)
-[![MicroBadger Size](https://img.shields.io/microbadger/image-size/pr0ger/dumb-http-server.svg?style=flat-square)](https://hub.docker.com/r/darthsim/imgproxy/)
+[![MicroBadger Size](https://img.shields.io/microbadger/image-size/pr0ger/dumb-http-server.svg?style=flat-square)](https://microbadger.com/images/pr0ger/dumb-http-server)
 
 Literally the dumbest http server. I use it to serve static files through [Traefik](https://traefik.io)
 
